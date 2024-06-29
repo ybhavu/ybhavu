@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav U.</h1>
-<h3 align="center">A passionate Machine Learning Enthusiast.</h3>
 
-- 🌱 I’m currently learning ** Web Dev **
+- 🌱 A Software Engineer
 
 - 👨‍💻 All of my projects are available at [https://github.com/ybhavu](https://github.com/ybhavu)
 
