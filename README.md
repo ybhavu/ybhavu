@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ybhavu](https://github.com/ybhavu)
 
-- 💬 Ask me about **ML and Tech in general**
-
 - 📫 How to reach me **ybhavupg@gmail.com**
 
 - ⚡ Fun fact **Tech makes me Curious !!!**
