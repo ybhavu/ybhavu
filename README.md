@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Vaibhav 👋</h1>
+2qz<h1 align="center">Hey, I'm Vaibhav 👋</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
@@ -19,14 +19,4 @@
 ### ⚡ Tech I Use
 React · Next.js · Node.js · MongoDB · AWS · Docker
 
----
 
-### 🚀 Featured Projects
-- [LinkSync](https://github.com/ybhavu/LinkSync)
-- [Laundrix](https://github.com/ybhavu/Laundrix)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybhavu&show_icons=true&hide_title=true&theme=radical" alt="Vaibhav's GitHub stats" />
-</p>
