@@ -1,50 +1,32 @@
-<h1 align="center">Hey 👋, I'm Vaibhav Upganlawar</h1>
-<h3 align="center">🚀 Full-Stack / Backend Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hey, I'm Vaibhav 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="mailto:ybhavupg@gmail.com">📧 Mail</a> •
+  <a href="mailto:ybhavupg@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ybhavu">💼 LinkedIn</a> •
   <a href="https://github.com/ybhavu">💻 GitHub</a>
 </p>
 
 ---
 
-### 🧠 About Me
-- 🧑‍💻 SDE I at [Darwinbox](https://www.darwinbox.com/)  
-- 🎓 B.Tech in Computer Science (CGPA 9.42)  
-- 🧩 Passionate about building scalable systems, solving tough problems, and learning new tech.
+### 🌱 About Me
+- SDE I at Darwinbox  
+- B.Tech in Computer Science (CGPA 9.42)  
+- Passionate about building cool, scalable web apps
 
 ---
 
-### ⚡ Tech Stack
-**Frontend:** React, Next.js, Angular, HTML, CSS, JS (ES6+)  
-**Backend:** Node.js, Express, Django  
-**Databases:** MongoDB, Azure SQL, Neo4j, Redis  
-**Cloud & DevOps:** AWS, Azure, Docker, Git  
-**Other:** System Design, GraphQL, REST APIs
+### ⚡ Tech I Use
+React · Next.js · Node.js · MongoDB · AWS · Docker
 
 ---
 
-### 🏆 Achievements
-- 🎯 Amazon ML Summer School (2022, 2023)
-- 💡 Microsoft Learn Student Ambassador
-- 🧮 Solved 500+ problems on [LeetCode](https://leetcode.com/)
-- 🥇 3⭐ (1653) on [CodeChef](https://www.codechef.com/users/)
-- ☁️ Google Cloud Certified (22 skill badges)
+### 🚀 Featured Projects
+- [LinkSync](https://github.com/ybhavu/LinkSync)
+- [Laundrix](https://github.com/ybhavu/Laundrix)
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ybhavu&show_icons=true&theme=radical" alt="Vaibhav's GitHub stats" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ybhavu&theme=radical" alt="Vaibhav's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ybhavu&show_icons=true&hide_title=true&theme=radical" alt="Vaibhav's GitHub stats" />
 </p>
-
----
-
-### ⚡ Fun Fact
-> I love blending tech and creativity — building tools that make developers' lives easier ⚡
-
