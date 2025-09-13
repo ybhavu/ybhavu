@@ -1,5 +1,7 @@
-2qz<h1 align="center">Hey, I'm Vaibhav 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer</h3>
+<!-- Typing animation header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hey%2C+I'm+Vaibhav+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="mailto:ybhavupg@gmail.com">📧 Email</a> •
@@ -10,13 +12,19 @@
 ---
 
 ### 🌱 About Me
-- SDE I at Darwinbox  
-- B.Tech in Computer Science (CGPA 9.42)  
-- Passionate about building cool, scalable web apps
+- 💻 SDE I at Darwinbox  
+- 🎓 B.Tech in Computer Science (CGPA 9.42)  
+- ⚡ Love building cool & scalable web apps
 
 ---
 
 ### ⚡ Tech I Use
-React · Next.js · Node.js · MongoDB · AWS · Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,aws,docker&perline=6" />
+</p>
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ybhavu&show_icons=true&hide_title=true&theme=radical" alt="Vaibhav's GitHub stats" />
+</p>
