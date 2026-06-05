@@ -20,7 +20,7 @@
 
 ### ⚡ Tech I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=go,python,react,nextjs,nodejs,mongodb,aws,docker&perline=6" />
+  <img src="https://skillicons.dev/icons?i=go,python,react,nodejs,mongodb,aws,docker&perline=6" />
 </p>
 
 ---
