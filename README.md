@@ -12,9 +12,9 @@
 ---
 
 ### 🌱 About Me
-- 💻 SDE I at Darwinbox  
+- 💻 SDE at Zomato  
 - 🎓 B.Tech in Computer Science (CGPA 9.42)  
-- ⚡ Love building cool & scalable web apps
+- ⚡ Love building cool & scalable stuff
 
 ---
 
